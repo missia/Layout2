@@ -1,0 +1,52 @@
+/* grey header*/
+#bar{
+	background-color: green-dark;
+	
+}
+#top{
+	text-align:left;
+	margin-left: 50px;
+	
+}
+
+nav{
+	
+}
+
+body{
+	background-color: green;
+	font-family: 'open Sans' , sans-serif;
+	color: white;
+}
+
+#title{
+	text-align: center;
+	margin-top: 90px;
+}
+
+#title1{
+	text-align: center;
+	margin-top: 20px;
+}
+
+#Enter{
+	
+    border-width: 5px;
+    text-align: center;
+	
+}
+
+.input-lg
+{
+	
+}
+
+footer{
+	font-size: 0.75em;
+	text-align: left;
+	padding-top: 20px;
+	color: white;
+	margin-top: 200px;
+	
+}
+
